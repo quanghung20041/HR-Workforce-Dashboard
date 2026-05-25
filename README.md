@@ -49,8 +49,8 @@ The dashboard helps HR teams and management monitor employee-related KPIs and id
 
 ## 📂 Files Included
 
-- `HR Project.pbix` — Power BI dashboard file
-- `HR Project.pdf` — Dashboard export version
+- `HR_Workforce_Dashboard.pbix` — Power BI dashboard file
+- `HR_Workforce_Dashboard.pbix` — Dashboard export version
 - Dashboard screenshots
 - README documentation
 
