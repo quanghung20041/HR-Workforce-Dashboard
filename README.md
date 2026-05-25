@@ -30,10 +30,10 @@ The dashboard helps HR teams and management monitor employee-related KPIs and id
 ## 📷 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](images/executive-summary.png)
+![Executive Summary](HR Workforce Dashboard_images/executive-summary.png)
 
 ### Workforce Database Overview
-![Workforce Database](images/workforce-database.png)
+![Workforce Database](HR Workforce Dashboard_images/workforce-database.png)
 
 ---
 
